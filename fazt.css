@@ -1,0 +1,21 @@
+
+h1{
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+head, body{
+  border: 1px;
+  text-align: center;
+  margin:auto;
+}
+.menu li{
+list-style: none;
+border: 1px dotted grey;
+padding: 5px;
+font: lighter 14px blue;
+display: inline-block;
+}
+.menu{
+  text-align: left;
+}
